@@ -18,7 +18,7 @@ setup(
     url='https://github.com/nandoflorestan/holiday',
     name="holiday",
     author='Nando Florestan',
-    version='0.0.1',
+    version='0.0.2dev',
     license='MIT',
     packages=find_packages(),
     include_package_data=True,
