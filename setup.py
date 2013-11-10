@@ -26,7 +26,7 @@ setup(
     description="Information about holiday dates in many nations",
     long_description=long_description,
     zip_safe=False,
-    test_suite='holiday.tests',
+    # test_suite='holiday.tests',
     install_requires=dependencies,
     keywords=['holiday', 'holidays', 'work day', 'work days', 'working days',
               'business day', 'business days'],

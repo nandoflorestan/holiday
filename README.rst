@@ -37,8 +37,6 @@ Getting started
 Installation
 ------------
 
-.. code-block:: bash
-
     easy_install -UZ holiday
 
 
